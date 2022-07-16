@@ -1,4 +1,4 @@
-# flash_chat
+# Flash Chat
 
 SniffyMcTasty's version of the Flash Chat app from The London App Brewery
 
